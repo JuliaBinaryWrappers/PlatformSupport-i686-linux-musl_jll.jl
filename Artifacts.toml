@@ -1,0 +1,9 @@
+[[PlatformSupport-i686-linux-musl]]
+arch = "x86_64"
+git-tree-sha1 = "71c66cf83796b044a0266bba2757be2259dcd32b"
+libc = "musl"
+os = "linux"
+
+    [[PlatformSupport-i686-linux-musl.download]]
+    sha256 = "9153903ce15caaa10a2dd105994a624d60cbcd2600fbc9227254ba26cddffd39"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-i686-linux-musl_jll.jl/releases/download/PlatformSupport-i686-linux-musl-v2020.1.15+0/PlatformSupport-i686-linux-musl.v2020.1.15.x86_64-linux-musl.tar.gz"
